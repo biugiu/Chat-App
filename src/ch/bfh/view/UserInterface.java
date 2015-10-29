@@ -42,7 +42,7 @@ public class UserInterface extends Application {
 
         Platform.setImplicitExit(true); 
 
-        primaryStage.setTitle("BFH");
+        primaryStage.setTitle("fsdfdsf");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
