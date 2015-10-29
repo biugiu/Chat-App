@@ -42,7 +42,7 @@ public class UserInterface extends Application {
 
         Platform.setImplicitExit(true); 
 
-        primaryStage.setTitle("BFH Chat");
+        primaryStage.setTitle("BFHeer Chat");
         primaryStage.setScene(scene);
         primaryStage.show();
     }
